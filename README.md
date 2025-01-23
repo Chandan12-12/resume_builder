@@ -1,3 +1,10 @@
-# resume_builder
-skills used : 
-HTLM, CSS, JS, PHP+PHYMYADMIN+MYSQL+XMAPP,BOOTSTRAP(only for homepage.php)<br> in this specific repository you will see how to create :<br> homepage<br>newregistrationpage<br>loginpage<br>welcomepage<br><br> here how to store information of user on mysql is also mentioned and how to access them to verify individuals.
+# Resume_Builder
+PLATFORM : Visual Studio Code, XAMPP
+FRONTEND : HTML, CSS, Javascript
+DATABASE : Mysql ( with the help of XAMPP)
+PROGRAMMING LANGUAGE : PHP
+
+
+
+ 
+
